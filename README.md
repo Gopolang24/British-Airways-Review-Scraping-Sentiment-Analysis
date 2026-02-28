@@ -156,7 +156,7 @@ jupyter notebook Scraping.ipynb
 
 - Skytrax reviews are self-selected — dissatisfied passengers are over-represented; findings reflect perception rather than a random sample of all travellers
 - `Aircraft` is imputed for ~48% of rows, adding noise to any aircraft-level analysis
-- Lounge eligibility estimates use seat class as a proxy for loyalty tier — actual proportions will vary by route, season, and departure time
+- Lounge eligibility estimates use seat class as a proxy for loyalty tier actual proportions will vary by route, season, and departure time
 
 ---
 
